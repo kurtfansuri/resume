@@ -1,2 +1,0 @@
-# resume
-GitHub Pages
